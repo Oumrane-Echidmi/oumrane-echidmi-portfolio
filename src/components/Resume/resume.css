@@ -1,0 +1,28 @@
+.resume-section {
+  position: relative;
+  padding-top: 110px;
+  padding-bottom: 30px;
+  background-image: linear-gradient(to left, rgba(0, 50, 84, 0.9), rgba(0, 50, 84, 0.95)); /* Blue theme */
+  color: white;
+}
+
+.resume {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  justify-content: center;
+}
+
+.resume-frame {
+    width: 100%;
+    max-width: 1000px;
+    height: 1100px; /* Adjust height as needed */
+    border: none;
+    background: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+@media (max-width: 767px) {
+  .resume-frame {
+      height: 600px; /* Smaller height for mobile */
+  }
+}
