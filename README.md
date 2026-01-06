@@ -8,7 +8,7 @@ I am a passionate software developer with expertise in:
 
 - **Frontend**: React.js, HTML5, CSS3, Bootstrap
 - **Backend**: Spring Boot, Java, SQL
-- **Other**: Git, REST APIs, System Design
+- **Other**: Git, System Design
 
 This portfolio is built with **React** to demonstrate modern web development practices and responsive design.
 
