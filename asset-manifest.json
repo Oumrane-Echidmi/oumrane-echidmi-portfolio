@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/oumrane-echidmi-portfolio/static/css/main.692ee267.css",
+    "main.js": "/oumrane-echidmi-portfolio/static/js/main.79caa620.js",
+    "static/js/370.a5437f62.chunk.js": "/oumrane-echidmi-portfolio/static/js/370.a5437f62.chunk.js",
+    "static/media/learnhub.png": "/oumrane-echidmi-portfolio/static/media/learnhub.0965e42d5c3ba81da4bd.png",
+    "static/media/flask.png": "/oumrane-echidmi-portfolio/static/media/flask.cf86ae61fb1aa319bd2f.png",
+    "static/media/about.png": "/oumrane-echidmi-portfolio/static/media/about.7482d007f47fc2830f3e.png",
+    "static/media/home2.png": "/oumrane-echidmi-portfolio/static/media/home2.db340ad963c90f6254c5.png",
+    "static/media/home.png": "/oumrane-echidmi-portfolio/static/media/home.896f0c191c649d6231be.png",
+    "static/media/Logo.png": "/oumrane-echidmi-portfolio/static/media/Logo.a735ee02c9b575cd21f1.png",
+    "static/media/Mongo.svg": "/oumrane-echidmi-portfolio/static/media/Mongo.2c5a056ee9abf56973ee685904548bb8.svg",
+    "static/media/Postman.svg": "/oumrane-echidmi-portfolio/static/media/Postman.6ad333ddb332edba5d093c0f6ef5ae00.svg",
+    "static/media/intellij-idea.svg": "/oumrane-echidmi-portfolio/static/media/intellij-idea.a3d71dc3bbbb019fb84226baae835b3a.svg",
+    "static/media/vscode.svg": "/oumrane-echidmi-portfolio/static/media/vscode.f5afdf1c4c0b365325db1e067c48782d.svg",
+    "static/media/Google Chrome.svg": "/oumrane-echidmi-portfolio/static/media/Google Chrome.e4cb7a8170c050a508f0bb06b5606529.svg",
+    "static/media/Python.svg": "/oumrane-echidmi-portfolio/static/media/Python.9daed22c470296a63e19d0d509a1828b.svg",
+    "static/media/React.svg": "/oumrane-echidmi-portfolio/static/media/React.fa17b44468fe3c157fc20898567de2b4.svg",
+    "static/media/Java.svg": "/oumrane-echidmi-portfolio/static/media/Java.980d8e77e92511acfefbf2dfdf4336e1.svg",
+    "static/media/C++.svg": "/oumrane-echidmi-portfolio/static/media/C++.90772619f39a0a3b04f60ee5c827c002.svg",
+    "static/media/Javascript.svg": "/oumrane-echidmi-portfolio/static/media/Javascript.dcff0bf09e6c5ffc3eaea9cc7ec4c8f5.svg",
+    "static/media/Git.svg": "/oumrane-echidmi-portfolio/static/media/Git.9fbdd94cab5e68fd45b434fd29b1bb5e.svg",
+    "index.html": "/oumrane-echidmi-portfolio/index.html",
+    "main.692ee267.css.map": "/oumrane-echidmi-portfolio/static/css/main.692ee267.css.map",
+    "main.79caa620.js.map": "/oumrane-echidmi-portfolio/static/js/main.79caa620.js.map",
+    "370.a5437f62.chunk.js.map": "/oumrane-echidmi-portfolio/static/js/370.a5437f62.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.692ee267.css",
+    "static/js/main.79caa620.js"
+  ]
+}
