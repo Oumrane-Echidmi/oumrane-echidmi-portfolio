@@ -2,12 +2,13 @@
 
 Welcome to my personal portfolio website! This project showcases my skills, projects, and professional experience as a Software Developer. It is built with **Next.js**, **React**, and **TypeScript**, featuring a modern, responsive, and space-themed design.
 
-![Portfolio Preview](./public/NextWebsite.png)
+<img width="1598" height="899" alt="image" src="https://github.com/user-attachments/assets/9b1824e7-36dd-4470-811c-5ce9a04fab37" />
+(./public/NextWebsite.png)
 _(Note: If the preview image is missing, it will be updated once a screenshot is added to the repo)_
 
 ## 🚀 Live Demo
 
-[View Live Portfolio](https://oumrane-echidmi-portfolio.vercel.app/) _(Replace with your actual Vercel/deployment link)_
+[View Live Portfolio](https://oumraneechidmi.vercel.app/) _(Replace with your actual Vercel/deployment link)_
 
 ## 🛠️ Tech Stack
 
