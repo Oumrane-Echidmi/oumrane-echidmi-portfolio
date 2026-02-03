@@ -5,8 +5,8 @@ import { RxLinkedinLogo } from "react-icons/rx";
 
 const Navbar = () => {
   return (
-    <div className="w-full h-[65px] fixed top-0 shadow-lg shadow-[#2A0E61]/50 bg-[#03001417] backdrop-blur-md z-50 px-2 md:px-10">
-      <div className="w-full h-full flex flex-row items-center justify-between m-auto px-[10px] relative">
+    <div className="w-full h-auto min-h-[65px] fixed top-0 shadow-lg shadow-[#2A0E61]/50 bg-[#03001417] backdrop-blur-md z-50 px-2 md:px-10">
+      <div className="w-full h-full flex flex-wrap items-center justify-between m-auto px-[10px] py-2 relative">
         <a
           href="#about-me"
           className="h-auto w-auto flex flex-row items-center z-50"
@@ -24,15 +24,15 @@ const Navbar = () => {
           </span>
         </a>
 
-        <div className="w-auto h-full flex flex-row items-center justify-between hidden md:flex absolute left-1/2 transform -translate-x-1/2">
-          <div className="flex items-center justify-between w-[500px] h-auto border border-[#7042f861] bg-[#0300145e] mr-[15px] px-[20px] py-[10px] rounded-full text-gray-200">
-            <a href="#about-me" className="cursor-pointer">
+        <div className="w-full md:w-auto h-full flex flex-row items-center justify-center md:absolute md:left-1/2 md:transform md:-translate-x-1/2 mt-2 md:mt-0 order-3 md:order-none">
+          <div className="flex items-center justify-between w-full md:w-[500px] h-auto border border-[#7042f861] bg-[#0300145e] px-[20px] py-[10px] rounded-full text-gray-200 gap-3">
+            <a href="#about-me" className="cursor-pointer text-sm md:text-base whitespace-nowrap">
               About me
             </a>
-            <a href="#skills" className="cursor-pointer">
+            <a href="#skills" className="cursor-pointer text-sm md:text-base whitespace-nowrap">
               Skills
             </a>
-            <a href="#projects" className="cursor-pointer">
+            <a href="#projects" className="cursor-pointer text-sm md:text-base whitespace-nowrap">
               Projects
             </a>
           </div>
