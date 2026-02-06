@@ -23,6 +23,12 @@ const Projects = () => {
           description="A modern, fast, and secure local file sharing application built with Flask. Designed to transfer files and folders effortlessly between devices on a local network."
           link="https://github.com/Oumrane-Echidmi/flask-file-share"
         />
+        <ProjectCard
+          src="/image.png"
+          title="Menara Prefa AI Assistant"
+          description="An AI-powered customer support chatbot for Ménara Préfa, built with Spring Boot (Google Gemini AI) and React."
+          link="https://github.com/Oumrane-Echidmi/menara-prefa-ai-assistant"
+        />
       </div>
     </div>
   );
